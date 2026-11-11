@@ -1,0 +1,8 @@
+.zp-code{font-family:var(--mono);font-weight:500;white-space:nowrap}
+.zp-zips{display:flex;flex-wrap:wrap;gap:4px 10px;font-family:var(--mono);font-size:.92rem}
+.zp-list{list-style:none;padding:0;margin:10px 0;display:grid;gap:8px}
+.zp-list button{display:flex;justify-content:space-between;gap:10px;align-items:center;width:100%;min-height:46px;padding:8px 12px;background:var(--surface);border:1px solid var(--line);border-radius:10px;color:var(--ink);font:600 1rem var(--font);text-align:left;cursor:pointer}
+.zp-list button span{font-family:var(--mono);color:var(--accent);font-weight:500;text-align:right}
+.zp-empty{color:var(--soft);padding:10px 2px}
+.zp-recent{margin:10px 0}.zp-recent b{font-size:.9rem;color:var(--soft);margin-right:6px}
+td.zp-code a{display:inline-block;padding:2px 0}
