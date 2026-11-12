@@ -6,3 +6,4 @@
 .zp-empty{color:var(--soft);padding:10px 2px}
 .zp-recent{margin:10px 0}.zp-recent b{font-size:.9rem;color:var(--soft);margin-right:6px}
 td.zp-code a{display:inline-block;padding:2px 0}
+.prose .zp-code{white-space:normal}
